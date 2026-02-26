@@ -1,2 +1,1 @@
-# AtvIntegradoraEGS1029
-Sistema Acadêmico Simulado
+Linha editada pela branch FEATURE para testar conflitos.
