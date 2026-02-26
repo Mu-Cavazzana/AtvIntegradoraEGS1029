@@ -1,2 +1,1 @@
-# AtvIntegradoraEGS1029
-Sistema Acadêmico Simulado
+Linha editada pela branch MAIN para gerar colisao de dados.
